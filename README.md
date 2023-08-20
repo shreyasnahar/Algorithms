@@ -1,2 +1,2 @@
 # Algorithms
-Include algorithm code files
+Code of algorithms
