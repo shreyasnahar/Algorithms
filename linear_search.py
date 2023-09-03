@@ -1,5 +1,6 @@
 
 def linear_search(arr,item):
+   ''' Inbuilt function to find the index'''
    return arr.index(item)!=-1
    
 def main():
